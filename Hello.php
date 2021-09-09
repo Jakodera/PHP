@@ -12,5 +12,10 @@
     echo '<br>';
     echo 'Another text';
     ?> 
+    
+    <?php
+    echo '<br>';
+    echo 'From anothet PHP Tag'
+    ?>
 </body>
 </html>
