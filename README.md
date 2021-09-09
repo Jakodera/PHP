@@ -4,4 +4,5 @@
 2. Variables
 3. Numbers
 4. String.
-5. Arrays
+5. Arrays.
+6. Conditionals
