@@ -6,3 +6,4 @@
 4. String.
 5. Arrays.
 6. Conditionals
+7. Loops
