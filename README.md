@@ -7,3 +7,4 @@
 5. Arrays.
 6. Conditionals
 7. Loops
+8. Functions
